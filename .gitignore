@@ -398,4 +398,4 @@
 	*.sln.iml
 	
 	*.DS_Store
-	
+	._*
